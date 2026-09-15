@@ -12,10 +12,5 @@ Full Stack Developer from **Jordan** — I build modern, responsive web apps tha
 ### My stack
 `React` `TypeScript` `Tailwind CSS` `Node` `Supabase` `PostgreSQL` `Zod` `React Query` `React Hook Form` `Vite` `PWA`
 
-### What I'm working on now
-- Shipping salon v2 (admin dashboard, custom schedule overrides)
-- Adding tests + CI to production code
-- Writing about preventing double-bookings with partial unique indexes
-
 ### Find me
 [Portfolio](https://eyadodeh.vercel.app) · [LinkedIn](https://www.linkedin.com/in/eyad-odeh/)
