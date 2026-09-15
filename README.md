@@ -39,4 +39,4 @@ Dev Tools: Git, npm, ESLint, Vercel
 ### 📬 Contact
 
 🌐 Portfolio: https://eyadodeh.vercel.app
-💼 LinkedIn: linkedin.com/in/eyad-odeh
+💼 LinkedIn: [linkedin.com/in/eyad-odeh](https://www.linkedin.com/in/eyad-odeh/)
