@@ -1,2 +1,2 @@
-# eyad Odeh
+# Eyad Odeh
 Githup Profile ReadMe
