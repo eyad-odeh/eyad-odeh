@@ -1,16 +1,42 @@
-### Hi, I'm Eyad 👋
+### 👋 Hi, I'm Eyad Odeh
 
-Full Stack Developer from **Jordan** — I build modern, responsive web apps that real people use.
+🚀 Full Stack Web Developer · Building modern, responsive web apps
+🌍 From Jordan — building real products that people actually use
 
-### Currently shipping
-**[Al-Hewwari Salon](https://alhewarisalon.vercel.app)** — a full-stack booking & loyalty platform for a real salon. Live in production, used by actual customers.
+### 🧠 About Me
 
-- Booking engine with **zero overbookings**, enforced at the database level
+I'm a Full Stack Developer focused on designing, building, and shipping real-world web platforms — not tutorials.
+
+I do hands-on development across the full stack, from database schema and API logic to polished, responsive UIs. My strongest work so far: a full-stack booking and loyalty platform for a real salon, live in production with actual customers using it daily.
+
+### 💡 What I Specialize In
+
+- ⚛️ **React / TypeScript** — modern, responsive single-page applications
+- 🎨 **Tailwind CSS** — design-driven, mobile-first interfaces
+- 🗄️ **Supabase / PostgreSQL** — data integrity enforced at the database level
+- 🔐 **Zod validation** — zero-bypass input protection
+- 📱 **PWA** — installable, offline-capable web apps
+- ⚡ **Performance** — code-splitting, caching, lazy loading
+- 🚀 **End-to-end delivery** — from UI to deployment (Vercel)
+
+### 🔧 Technologies I Use
+
+Languages: JavaScript, TypeScript, HTML, CSS
+Frameworks: React, Vite, Tailwind CSS
+Libraries: React Query, React Hook Form, Framer Motion, date-fns
+Backend: Supabase, PostgreSQL, Node, Edge Functions
+Dev Tools: Git, npm, ESLint, Vercel
+
+### 🌍 Featured Project
+
+💈 **Al-Hewwari Salon** — full-stack booking & loyalty platform for a real salon
+- Zero-overbooking guarantee, enforced with a partial unique index at the database level
 - Automated loyalty points ledger with full transaction history
-- PWA (installable, works offline) + golden glassmorphic UI
+- PWA with installable, app-like experience
 
-### My stack
-`React` `TypeScript` `Tailwind CSS` `Node` `Supabase` `PostgreSQL` `Zod` `React Query` `React Hook Form` `Vite` `PWA`
+🔗 Live: https://alhewarisalon.vercel.app
 
-### Find me
-[Portfolio](https://eyadodeh.vercel.app) · [LinkedIn](https://www.linkedin.com/in/eyad-odeh/)
+### 📬 Contact
+
+🌐 Portfolio: https://eyadodeh.vercel.app
+💼 LinkedIn: linkedin.com/in/eyad-odeh
